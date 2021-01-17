@@ -1,0 +1,280 @@
+.head-banner {
+    height: 750px;
+    background: url("//i0.hdslb.com/bfs/safety-center/68f6cef0fff4135f7c0db123f2c78cc4e39aa58d.png") center center no-repeat;
+    background-color: #000;
+    background-size: 100% auto;
+}
+
+.head-text {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding-top: 182px;
+}
+
+.head-banner h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 88px;
+}
+
+.head-banner h2 {
+    margin-top: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 66px;
+}
+
+.title {
+    text-align: center;
+}
+
+.title .line1 {
+    display: inline-block;
+    height: 38px;
+    width: 60px;
+    background: url("/static/images/line1.png") center center no-repeat;
+    vertical-align: bottom;
+}
+
+.title .line1.right {
+    transform: rotate(180deg);
+}
+
+.title .line2 {
+    display: inline-block;
+    height: 38px;
+    width: 60px;
+    background: url("/static/images/line2.png") center center no-repeat;
+    vertical-align: bottom;
+}
+
+.title .line2.right {
+    transform: rotate(180deg);
+}
+
+h3 {
+    font-size: 38px;
+    line-height: 38px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.top3 {
+    width: 1024px;;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    padding: 68px 0;
+    overflow: hidden;
+}
+
+.top3 .header {
+    position: relative;
+    width: 312px;
+    height: 312px;
+    overflow: hidden;
+}
+
+.top3 .header_1 {
+    width: 313px;
+    float: left;
+    margin: 60px 84px 0;
+}
+
+.top3 .header_2 {
+    width: 266px;
+    float: left;
+    margin: 190px 0 0 0;
+    padding: 0 10px;
+}
+
+.top3 h4 {
+    text-align: center;
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.top3 span {
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+    display: block;
+}
+
+.top3 img {
+    position: relative;
+    width: 276px;
+    height: 276px;
+    left: 20px;
+    top: 2px;
+}
+
+.top3 .header_cover {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 312px;
+    height: 312px;
+    z-index: 9;
+    background: url("/static/images/header_cover.png");
+    background-size: 100% 100%;
+}
+
+.top3 .header_1 span {
+    margin-top: 35px;
+}
+
+.top3 .header_2 .header {
+    height: 246px;
+    width: 246px;
+}
+
+.top3 .header_2 .header_cover {
+    width: 246px;
+    height: 246px;
+    top: 0px;
+}
+
+.top3 .header_2 img {
+    width: 216px;
+    height: 216px;
+    top: 14px;
+    left: 15px;
+}
+
+.gift {
+    width: 100%;
+    background-color: #edf2f8;
+    padding: 68px 0;
+}
+
+.gift .am-g {
+    padding: 30px 0 0 0;
+}
+
+.gift .am-g ul {
+    margin: 0;
+}
+
+.info {
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 68px 0;
+}
+
+.info img {
+    margin: 0 auto;
+    display: block;
+}
+
+.about {
+    width: 100%;
+    background-color: #000000;
+    padding: 68px 0;
+}
+
+.about p {
+    color: #717275;
+    text-align: center;
+    width: 1024px;
+    margin: 8px auto;
+    font-size: 16px;
+}
+
+.about .title{
+    margin-bottom: 20px;
+}
+
+.about p span {
+    display: block;
+}
+
+.about h3 {
+    color: #FFFFFF;
+}
+
+.about .line, .gift .line {
+    width: 9px;
+    margin: 0 auto 5px;
+}
+
+.about .line img, .gift .line img {
+    width: 9px;
+}
+
+.about .button, .gift .button {
+    display: block;
+    width: 120px;
+    height: 36px;
+    margin: 0 auto;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    font-size: 15px;
+    line-height: 36px;
+    border-radius: 20px;
+}
+
+.gift .button {
+    color: #fff;
+    background: #000;
+}
+
+.gift .button:hover {
+    background: #a8a8a8;
+    color: #fff;
+}
+
+.about .button:hover {
+    background: #a8a8a8;
+    color: #000;
+}
+
+
+.top3 a {
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.info-detail {
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.info-detail .image, .info-detail .detail {
+    margin: 0;
+    overflow: hidden;
+    float: left;
+}
+
+.info-detail .detail {
+    width: 500px;
+}
+
+.info-detail .image {
+    width: 500px;
+}
+
+.info-detail .image img {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.info-detail .detail p {
+    padding: 10px;
+    color: #696969;
+}
+
+.info-detail .detail h4 {
+    font-size: 22px;
+}
+
+.info-detail .detail h4 b {
+    font-size: 42px;
+}
