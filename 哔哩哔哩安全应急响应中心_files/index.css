@@ -1,6 +1,10 @@
 .head-banner {
     height: 750px;
+<<<<<<< HEAD
     background: url("68f6cef0fff4135f7c0db123f2c78cc4e39aa58d.png") center center no-repeat;
+=======
+    background: url("https://i0.hdslb.com/bfs/safety-center/68f6cef0fff4135f7c0db123f2c78cc4e39aa58d.png") center center no-repeat;
+>>>>>>> 2b69cd5f1cfd6b23f390ba07d4f22702fd73b3a4
     background-color: #000;
     background-size: 100% auto;
 }
